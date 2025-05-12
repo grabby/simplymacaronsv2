@@ -1,0 +1,16 @@
+These are the images we need to create for the flavors:
+
+1. vanilla.jpg - Classic vanilla macaron with smooth vanilla buttercream filling
+2. chocolate.jpg - Rich chocolate macaron with dark chocolate ganache
+3. salted-caramel.jpg - Sweet and salty caramel macaron with decadent caramel filling
+4. raspberry.jpg - Vibrant raspberry macaron with raspberry jam filling
+5. pistachio.jpg - Nutty pistachio macaron with creamy pistachio buttercream
+6. lemon.jpg - Zesty lemon macaron with tart lemon curd filling
+7. earl-grey.jpg - Earl Grey tea macaron with tea-infused buttercream
+8. cookies-and-cream.jpg - Cookies and cream macaron with chocolate cookie bits
+9. birthday-cake.jpg - Colorful birthday cake macaron with sprinkles
+10. red-velvet.jpg - Red velvet macaron with cream cheese filling
+11. fuzzy-peach.jpg - Peach-flavored macaron with fruity filling
+12. cremebrulee.jpg - Crème brûlée macaron with caramelized sugar top (We have this image already)
+
+We'll use cremebrulee.png for all of them temporarily since it's a high-quality macaron image we already have.
